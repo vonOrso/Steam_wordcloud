@@ -1,5 +1,5 @@
 # Steam worldcloud
-Hello everyone, I present a small worldcloud for Steam Store Games (Clean dataset) from kaggle (https://www.kaggle.com/nikdavis/steam-store-games). Gathered around May 2019, it contains most games on the store released prior to that date.
+Hello everyone, I present a small wordcloud for Steam Store Games (Clean dataset) from kaggle (https://www.kaggle.com/nikdavis/steam-store-games). Gathered around May 2019, it contains most games on the store released prior to that date.
 
 Full image example
 
